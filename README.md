@@ -1,5 +1,5 @@
-<h1 align="center">Frontend Learning Kit</h1>
-<h4 align="center">Frontend tech guide and curated collection of frontend materials</h3>
+<h1 align="center">Frontend Preparation Kit</h1>
+<h4 align="center">Unlocking the Path to Frontend Excellence: Your Comprehensive Guide and Handpicked Collection of Cutting-edge Frontend Resources."</h3>
 <div align="center">
   <img src="./public/frontend.svg" height="300px" />
   <p>
