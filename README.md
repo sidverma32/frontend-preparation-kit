@@ -34,8 +34,8 @@
 
 <strong>***Important articles to read before your interview***</strong>
 
-- 📍&nbsp;&nbsp;[ThatJsDude]([https://roadmap.sh/frontend?r=frontend-beginner](http://www.thatjsdude.com/interview/index.html))
-- 📍&nbsp;&nbsp;[Cracking the front-end interview]([https://roadmap.sh/frontend](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237))
+- 📍&nbsp;&nbsp;[ThatJsDude](http://www.thatjsdude.com/interview/index.html)
+- 📍&nbsp;&nbsp;[Cracking the front-end interview](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237)
 
 
 <br>
