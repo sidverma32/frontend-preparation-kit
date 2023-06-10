@@ -1,7 +1,7 @@
 <h1 align="center">Frontend Preparation Kit</h1>
 <h4 align="center">Unlocking the Path to Frontend Excellence: Your Comprehensive Guide and Handpicked Collection of Cutting-edge Frontend Resources."</h3>
 <div align="center">
-  <img src="./public/frontend.svg" height="300px" />
+  <img src="./public/javascript.gif" height="300px" />
   <p>
     <a name="stars"><img src="https://img.shields.io/github/stars/sadanandpai/frontend-learning-kit?style=for-the-badge"></a>
     <a name="forks"><img src="https://img.shields.io/github/forks/sadanandpai/frontend-learning-kit?logoColor=green&style=for-the-badge"></a>
@@ -23,16 +23,16 @@
 
 <br>
 
-## Frontend resources/materials
+## Checkout below all Frontend Preparation Materials
 
-<strong>Roadmaps</strong>
+<strong>***Roadmaps***</strong>
 
 - 📍&nbsp;&nbsp;[Road Map (Beginner Version)](https://roadmap.sh/frontend?r=frontend-beginner)
 - 📍&nbsp;&nbsp;[Road Map (Advanced Version)](https://roadmap.sh/frontend)
 
 <br>
 
-<strong>HTML</strong>
+<strong>***HTML***</strong>
 
 - 📗&nbsp;&nbsp;[MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - 📗&nbsp;&nbsp;[W3 Schools](https://www.w3schools.com/html/)
@@ -40,7 +40,7 @@
 
 <br>
 
-<strong>CSS</strong>
+<strong>***CSS***</strong>
 
 - 📗&nbsp;&nbsp;[MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - 📗&nbsp;&nbsp;[Web Dev](https://web.dev/learn/css/)
@@ -49,14 +49,14 @@
 
 <br>
 
-<strong>Advanced CSS</strong>
+<strong>***Advanced CSS***</strong>
 
 - 📘&nbsp;&nbsp;[Debugging CSS](https://debuggingcss.com/)
 - 🎥&nbsp;&nbsp;[CSS Demystified](https://cssdemystified.com/)
 
 <br>
 
-<strong>JavaScript</strong>
+<strong>***JavaScript***</strong>
 
 - 📗&nbsp;&nbsp;[Eloquent JavaScript](https://eloquentjavascript.net/)
 - 📗&nbsp;&nbsp;[JavaScript Info](https://javascript.info/)
@@ -69,7 +69,7 @@
 
 <br>
 
-<strong>Advanced JavaScript</strong>
+<strong>***Advanced JavaScript***</strong>
 
 - 📗&nbsp;&nbsp;[You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 - 📗&nbsp;&nbsp;[Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)
@@ -81,7 +81,7 @@
 
 <br>
 
-<strong>TypeScript</strong>
+<strong>***TypeScript***</strong>
 
 - 📗&nbsp;&nbsp;[TypeScript Deepdive](https://basarat.gitbook.io/typescript/)
 - 📗&nbsp;&nbsp;[Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
@@ -93,7 +93,7 @@
 
 <br>
 
-<strong>React</strong>
+<strong>***React***</strong>
 
 - 📗&nbsp;&nbsp;[React Dev](https://react.dev/)
 - 🎥&nbsp;&nbsp;[React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
@@ -102,7 +102,7 @@
 
 <br>
 
-<strong>React Repos</strong>
+<strong>***React Repos***</strong>
 
 - 📁&nbsp;&nbsp;[React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react)
 - 📁&nbsp;&nbsp;[Entire React code base explanation by visual block](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
@@ -110,7 +110,7 @@
 
 <br>
 
-<strong>Other frameworks</strong>
+<strong>***Other frameworks***</strong>
 
 - 🎥&nbsp;&nbsp;[NextJS](https://www.udemy.com/course/nextjs-react-the-complete-guide/)
 - 🎥&nbsp;&nbsp;[Angular](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
@@ -119,14 +119,14 @@
 
 <br>
 
-<strong>HTTP</strong>
+<strong>***HTTP***</strong>
 
 - 📗&nbsp;&nbsp;[MDN HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - 📘&nbsp;&nbsp;[HTTP2 in Action](https://livebook.manning.com/book/http2-in-action/about-this-book/)
 
 <br>
 
-<strong>Git</strong>
+<strong>***Git***</strong>
 
 - 📗&nbsp;&nbsp;[Become a git guru](https://www.atlassian.com/git/tutorials)
 - 📗&nbsp;&nbsp;[Pro Git](https://git-scm.com/book/en/v2)
@@ -135,7 +135,7 @@
 
 <br>
 
-<strong>Web Performance</strong>
+<strong>***Web Performance & Optimization ***</strong>
 
 - 📗&nbsp;&nbsp;[MDN Performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
 - 📗&nbsp;&nbsp;[Web Dev Performance](https://web.dev/learn/#performance)
@@ -145,13 +145,13 @@
 
 <br>
 
-<strong>Web Security</strong>
+<strong>***Web Security***</strong>
 
 - 🎥&nbsp;&nbsp;[Web Security](https://frontendmasters.com/courses/web-security/)
 
 <br>
 
-<strong>Accessibility</strong>
+<strong>****Accessibility***</strong>
 
 - 🎥&nbsp;&nbsp;[Accessibility in JavaScript Applications](https://frontendmasters.com/courses/javascript-accessibility/)
 - 🎥&nbsp;&nbsp;[Develop Accessible Web Apps with React](https://egghead.io/courses/develop-accessible-web-apps-with-react)
