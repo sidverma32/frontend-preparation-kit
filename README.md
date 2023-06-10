@@ -32,6 +32,19 @@
 
 <br>
 
+<strong>***Important articles to read before your interview***</strong>
+
+- 📍&nbsp;&nbsp;[ThatJsDude]([https://roadmap.sh/frontend?r=frontend-beginner](http://www.thatjsdude.com/interview/index.html))
+- 📍&nbsp;&nbsp;[Cracking the front-end interview]([https://roadmap.sh/frontend](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237))
+
+
+<br>
+
+<strong>***Test your javascript skills***</strong>
+
+ *** To Be added soon ***
+<br>
+
 <strong>***HTML***</strong>
 
 - 📗&nbsp;&nbsp;[MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -135,7 +148,7 @@
 
 <br>
 
-<strong>***Web Performance & Optimization ***</strong>
+<strong>Web Performance & Optimization</strong>
 
 - 📗&nbsp;&nbsp;[MDN Performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
 - 📗&nbsp;&nbsp;[Web Dev Performance](https://web.dev/learn/#performance)
@@ -145,7 +158,7 @@
 
 <br>
 
-<strong>***Web Security***</strong>
+<strong>Web Security</strong>
 
 - 🎥&nbsp;&nbsp;[Web Security](https://frontendmasters.com/courses/web-security/)
 
