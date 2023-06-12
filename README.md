@@ -133,7 +133,10 @@
 
 - 🎥&nbsp;&nbsp;[NextJS](https://www.udemy.com/course/nextjs-react-the-complete-guide/)
 - 🎥&nbsp;&nbsp;[Angular](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
-- 🎥&nbsp;&nbsp;[Vue:Complete guide](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
+- 🎥&nbsp;&nbsp;[Vue2:Complete guide](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
+- 🎥&nbsp;&nbsp;[Vue3:Official guide](https://vuejs.org/guide/introduction.html)
+- 🎥&nbsp;&nbsp;[Vue Mastery: VUE courses from VUE creators](https://www.vuemastery.com/)
+- 🎥&nbsp;&nbsp;[Vue Mastery: Learning paths](https://www.vuemastery.com/learning-path/beginner)
 - 🎥&nbsp;&nbsp;[Sveltejs: Complete Guide](https://www.udemy.com/course/sveltejs-the-complete-guide/)
 
 <br>
