@@ -1,12 +1,12 @@
 
 ##### 1. Write poly-fill of the followings (Minimal Implementation) 
-> - Bind: <https://gist.github.com/harishekhar/1eded01d275e2dd9b089f2886ff9d9df>
-> - Reduce: <https://gist.github.com/harishekhar/80425b082e99fb2aa6270d436e8bbeaa>
-> - Filter: <https://gist.github.com/harishekhar/f782ecc4c33898579652919cd50b28d1>
-> - Map: <https://gist.github.com/harishekhar/19272c865ccdce8359d20579678c1f4d>
-> - Some: <https://gist.github.com/harishekhar/355acf3c8e5847c7057a78d3d22c8d1b>
-> - Every: <https://gist.github.com/harishekhar/a3c9be0ead9f0b20cae268709c32e8ed>
-> - Object.assign: <https://codepen.io/souporserious/pen/Boavdv?editors=1010>
+> - Bind: <https://gist.github.com/sidverma32/ff364d4eeed2118811e84612c7c2f2ca>
+> - Reduce: <https://gist.github.com/sidverma32/8adac77777844a767e69572e6e595f73>
+> - Filter: <https://gist.github.com/sidverma32/c967566e2a56cbd0661e381b44f46b0a>
+> - Map: <https://gist.github.com/sidverma32/2e7ebba659d1ac1bcd08d6f85ade6650>
+> - Some: <https://gist.github.com/sidverma32/c6b8761fbb7c33d6a1bea283cee666d9>
+> - Every: <https://gist.github.com/sidverma32/352423c69195f2ea9919b2bf89353367>
+> - Object.assign: <https://gist.github.com/sidverma32/ad0e9dc78179f129de1b30fafaab8304>
 > - Promise: <https://brunoscopelliti.com/lets-write-a-promise-polyfill/>
 
 
@@ -14,18 +14,19 @@
 > - Debounce: <https://davidwalsh.name/javascript-debounce-function>
 > - Throttle: <https://css-tricks.com/debouncing-throttling-explained-examples/>
 > - Memomize: <https://www.freecodecamp.org/news/understanding-memoize-in-javascript-51d07d19430e/>
-> - Object Deep Clone: <https://gist.github.com/harishekhar/28247be45237a592cdfd7e858b92372d>
+> - Object Deep Clone: <https://gist.github.com/sidverma32/20d2b814f1d02cd5340cfb7a845dc28b>
 
 	
 	
 	
 ##### 3. Implement Design pattern of the followings
-> - Singleton: <https://codeburst.io/javascript-global-variables-vs-singletons-d825fcab75f9>
+> - Singleton: <https://gist.github.com/sidverma32/7a91ad817b67cd6ad0ca8fa8c21d6065>
 > - Prototype: <https://dev.to/arnas/prototype-design-pattern--2lg2>
 > - Pub/Sub: <https://jarrettmeyer.com/2016/04/18/observer-pattern-in-javascript>
 > - Revealing module pattern: <https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know>
 	
 ##### 4. Design a library or component 
+> - How to build a library: <https://www.erikschierboom.com/2015/08/05/building-a-javascript-library/>
 > - Carousel: <https://codepen.io/shekhardtu/pen/eobMVW?editors=1010>
 > - Auto-complete/Auto Suggest, 
 > - Trello: <https://codepen.io/shekhardtu/pen/eYOPJNg>
