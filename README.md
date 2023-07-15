@@ -46,9 +46,9 @@
 
 <br>
 
-<strong>***Test your javascript skills***</strong>
+<strong>*** Frontend CheatSheet ***</strong>
 
- *** To Be added soon ***
+ [*** Frontend Interview CheatSheet ***](https://itnext.io/frontend-interview-cheatsheet-that-helped-me-to-get-offer-on-amazon-and-linkedin-cba9584e33c7)
 <br>
 
 <strong>***HTML***</strong>
