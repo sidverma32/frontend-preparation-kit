@@ -1,4 +1,4 @@
-<h1 align="center">Frontend Preparation Kit</h1>
+<h1 align="center">Frontend Preparation Kit v1.0</h1>
 <h4 align="center">Unlocking the Path to Frontend Excellence: Your Comprehensive Guide and Handpicked Collection of Cutting-edge Frontend Resources."</h3>
 <div align="center">
   <img src="./public/javascript.gif" height="300px" />
